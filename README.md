@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aidin</h1>
 <h3 align="center">Junior Flutter Developer | Coding Enthusiast & Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidinm&label=Profile%20views&color=0e75b6&style=flat" alt="aidinm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiidinm&label=Profile%20views&color=0e75b6&style=flat" alt="aiidinm" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiidinm" alt="aiidinm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aidinm__" target="blank"><img src="https://img.shields.io/twitter/follow/aidinm__?logo=twitter&style=for-the-badge" alt="aidinm__" /></a> </p>
 
@@ -19,6 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidinm&show_icons=true&locale=en&layout=compact" alt="aidinm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiidinm&show_icons=true&locale=en&layout=compact" alt="aiidinm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidinm&" alt="aidinm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiidinm&show_icons=true&locale=en" alt="aiidinm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiidinm&" alt="aiidinm" /></p>
